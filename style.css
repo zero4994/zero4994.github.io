@@ -1,0 +1,40 @@
+body {
+    background: url(img/background-blurred.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card-header {
+    background: darkgrey;
+}
+
+#header-section .fas {
+    color: #eac086;
+}
+
+.card-body {
+    background: #ebeaea;
+}
+
+#header-section .inner-text {
+    color: #000000;
+    font-size: 25px;
+    height: 100%;
+}
+
+.text-description {
+    font-size: 21px;
+}
+
+#about-me-section .list-group {
+    font-size: 22px;
+}
+
+#about-me-section .fa-heart {
+    color: red;
+}
+
+#contact-me-section .fab {
+    color: #000;
+}
